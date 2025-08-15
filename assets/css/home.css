@@ -403,22 +403,8 @@ display: none;
   font-size: 50px;
   color: #f9004d;
 }
-/* .app4 i:hover{
-    animation-name: anmi;
-    animation-duration: 1s;
-    animation-iteration-count: 2;
-}
-@keyframes anmi{
-    from{
-transform: translateX(0px);
-color: #f9004d;
-    }
-    to{
-transform: translateX(-100px);
-color:blueviolet;
-border-radius: 50%;
-    }
-} */
+
+
 .add {
   width: 100%;
   height: auto;
@@ -699,7 +685,7 @@ border-radius: 50%;
   width: 100%;
   height: auto;
   /* background-color:mediumspringgreen; */
-  padding-bottom: 35px;
+  padding-bottom: 15px;
 }
 .polo h1 {
   font-size: 25px;
